@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233876465819",
+    "firebase_url": "https://composed-world-275804.firebaseio.com",
+    "project_id": "composed-world-275804",
+    "storage_bucket": "composed-world-275804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233876465819:android:7909f891c37772f5ab3e3e",
+        "android_client_info": {
+          "package_name": "com.jack_test_1.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233876465819-7771v9ld0868l2b591l8hs1j5jj8juv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrUdKX-BmiVpz3b_DI9QCUdDFxzopLbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233876465819-7771v9ld0868l2b591l8hs1j5jj8juv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

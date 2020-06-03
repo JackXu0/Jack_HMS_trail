@@ -1,4 +1,8 @@
 {
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
 	"client":{
 		"cp_id":"890001000000000755",
 		"product_id":"736430079244489084",
@@ -8,5 +12,16 @@
 		"package_name":"com.jack_test_1.huawei",
 		"api_key":"CV7+MO4kWbUKQTeDlVX6jqR03+cbEarESWlBaiAkE2muVlCqhHE7mBLb8zybEPAbumcy5p7woKapBbj0cl9aKZRo9Xat"
 	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
 	"configuration_version":"1.0"
 }
