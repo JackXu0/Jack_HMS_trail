@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890001000000000755",
+		"product_id":"736430079244489084",
+		"client_id":"376246939093566656",
+		"client_secret":"3C7A78ED68416347B6CD10B8B6E82CFD4AF6024A2163EF7B0CF0633361252111",
+		"app_id":"102332503",
+		"package_name":"com.jack_test_1.huawei",
+		"api_key":"CV7+MO4kWbUKQTeDlVX6jqR03+cbEarESWlBaiAkE2muVlCqhHE7mBLb8zybEPAbumcy5p7woKapBbj0cl9aKZRo9Xat"
+	},
+	"configuration_version":"1.0"
+}
